@@ -2,7 +2,6 @@
 
 - 🛠Love front-end
 - 🍤Love food
-- 📃Love novels
 
 **🌱 I’m currently learning**
 
